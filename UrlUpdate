@@ -37,7 +37,7 @@
     {
       "Name": "SERVIDOR USA | PLUS",
       "TYPE": "free",
-      "FLAG": "usa.png",
+      "FLAG": "us.png",
       "ServerIP": "usa.hackkcah.tk",
       "ServerPort": "22",
       "SSLPort": "443",
