@@ -1,11 +1,11 @@
 {
   "Version": "1.0.2",
-  "ReleaseNotes": "TESTE UPDATE ONLINE",
-  "UrlUpdate": "https://kiritosshxd.github.io/Conecta4g_site/UrlUpdate",
-  "Sms": "https://duckssh.github.io/Conecta4g_site/UrlSms",
+  "ReleaseNotes": "ATUALIZAR AGORA?",
+  "UrlUpdate": "https://duckssh.github.io/DuckInNET_site/UrlUpdate",
+  "Sms": "https://duckssh.github.io/DuckInNET_site/UrlSms",
   "EmailFeedback": "duckssh.suporte@gmail.com",
   "UrlContato": "https://t.me/duckssh_ofc",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlTermos": "https://duckssh.github.io/DuckInNET_site/termos.html",
   "Udp": [
     {
       "Porta": "7300"
@@ -25,23 +25,23 @@
   ],
   "Servers": [
     {
-      "Name": "TESTE UPDATE | PLUS",
+      "Name": "SERVIDOR BR | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "premium01.conecta4g.xyz",
+      "ServerIP": "duckssh.ml",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
     {
-      "Name": "PREMIUM 02 | PLUS",
+      "Name": "SERVIDOR USA | PLUS",
       "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "premium02.conecta4g.xyz",
+      "FLAG": "usa.png",
+      "ServerIP": "usa.hackkcah.tk",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "teste006",
+      "USER": "usa001",
       "PASS": "1234"
     }
   ],
