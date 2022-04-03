@@ -36,7 +36,7 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR USA | PLUS",
+      "Name": "SERVIDOR USA | FREE",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "usa.hackkcah.tk",
@@ -55,7 +55,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
+      "ProxyPort": "",
       "Info": "Proxy"
     },
     {
@@ -75,7 +75,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
+      "ProxyPort": "",
       "Info": "Proxy"
     },
     {
@@ -105,7 +105,7 @@
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Ssl"
     },
     {
