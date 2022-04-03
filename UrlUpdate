@@ -97,6 +97,16 @@
       "Info": "Ssl"
     },
     {
+      "Name": "CLARO SSL 06",
+      "FLAG": "claro",
+      "Payload": "CONNECT sni://cdn.jsdelivr.net HTTP/1.1[crlf]Host: [crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "cdn.jsdelivr.net",
+      "TlsIP": "",
+      "ProxyIP": "104.16.87.20",
+      "ProxyPort": "443",
+      "Info": "Ssl"
+    },
+    {
       "Name": "OI TLS 02",
       "FLAG": "oi",
       "Payload": "GET ssl://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][crlf]Connection: Upgrade[crlf]",
