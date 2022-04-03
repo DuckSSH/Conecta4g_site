@@ -53,7 +53,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
-      "ProxyPort": "",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -73,7 +73,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
-      "ProxyPort": "",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -103,7 +103,7 @@
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
-      "ProxyPort": "",
+      "ProxyPort": "80",
       "Info": "Ssl"
     },
     {
@@ -113,7 +113,7 @@
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "mobilidade.cloud.caixa.gov.br",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "80",
       "Info": "Tlsws"
     }
   ]
