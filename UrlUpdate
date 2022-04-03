@@ -31,6 +31,7 @@
       "ServerIP": "duckssh.ml",
       "ServerPort": "22",
       "SSLPort": "443",
+      "ProxyPort": "80",
       "USER": "",
       "PASS": ""
     },
@@ -41,6 +42,7 @@
       "ServerIP": "usa.hackkcah.tk",
       "ServerPort": "22",
       "SSLPort": "443",
+      "ProxyPort": "80",
       "USER": "usa002",
       "PASS": "1234"
     }
