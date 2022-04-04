@@ -5,7 +5,9 @@
   "Sms": "https://duckssh.github.io/DuckInNET_site/UrlSms",
   "EmailFeedback": "duckssh.suporte@gmail.com",
   "UrlContato": "https://t.me/duckssh_ofc",
-  "UrlTermos": "https://duckssh.github.io/DuckInNET_site/termos.html",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
   "Udp": [
     {
       "Porta": "7100"
