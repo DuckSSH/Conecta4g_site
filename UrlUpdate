@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "ReleaseNotes": "MELHORIAS NA CONEXÃO",
   "UrlUpdate": "https://duckssh.github.io/DuckInNET_site/UrlUpdate",
   "Sms": "https://duckssh.github.io/DuckInNET_site/UrlSms",
@@ -135,7 +135,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://parceirosclaro.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "parceirosclaro.com.br",
-      "TlsIP": "",
+      "TlsIP": "parceirosclaro.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
