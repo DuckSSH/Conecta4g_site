@@ -25,7 +25,31 @@
       "Porta": "7500"
     }
    ],
-  "Servidores": [
+  "Servers": [
+    {
+      "Name": "SERVIDOR (BR01)",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "duckssh.ml",
+      "CheckUser": "http://duckssh.ml:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "SERVIDOR (BR02)",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "duckssh.ml",
+      "CheckUser": "http://duckssh.ml:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+  ],
+  "Networks": [
     {
       "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
