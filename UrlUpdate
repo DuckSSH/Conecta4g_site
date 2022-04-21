@@ -1,13 +1,13 @@
 {
-  "Versão": "1.0.1",
-  "ReleaseNotes": "MELHORIAS NA CONEXÃO",
+  "Version": "1.0.1",
+  "ReleaseNotes": "",
   "UrlUpdate": "https://duckssh.github.io/DuckInNET_site/UrlUpdate",
   "Sms": "https://duckssh.github.io/DuckInNET_site/UrlSms",
   "EmailFeedback": "duckssh.suporte@gmail.com",
-  "UrlContato": "https://wa.me/+559191370951",
+  "UrlContato": "https://t.me/duckssh_ofc",
   "UrlTermos": "https://duckssh.github.io/DuckInNET_site/termos.html",
-  "CheckUser": "verdadeiro",
-  "FormatCheck": "aaaammdd",
+  "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
   "Udp": [
     {
       "Porta": "7100"
